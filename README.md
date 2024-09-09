@@ -6,7 +6,7 @@ Pirogue is a concatenative language built to explore concatenative combinators a
 
 <img align="right" width="100" src="pirogue.jpg">
 
-A Cajun Pirogue is a small, flat bottomed boat built for the shallow marshes and bayous in Louisiana. It's said that a pirogue can "can float on a heavy dew".
+A Cajun Pirogue is a small, flat bottomed boat built for the shallow marshes and bayous in Louisiana. It's said that a pirogue can "float on a heavy dew".
 
 ## Running
 
